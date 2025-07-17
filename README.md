@@ -10,6 +10,7 @@ Disclaimer: This dataset is synthetic and was created for illustrative and educa
 
 
 **Key Insights from the Visualization**
+
 This project reveals several important patterns related to sleep health and lifestyle based on the dataset:
 
 **1. Balanced Gender Distribution**
